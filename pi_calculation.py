@@ -40,3 +40,7 @@ result = 1.09999901 * 1.19999911 * 1.39999931 * 1.69999961
 print(result)
 print(abs((result - realPi[0]) / realPi[0]) * 100)
 print("-------------------------------------------")
+result = (31 / 4) ** (1 / (11 ** 0.5))
+print(result)
+print(abs((result - realPi[0]) / realPi[0]) * 100)
+print("-------------------------------------------")
