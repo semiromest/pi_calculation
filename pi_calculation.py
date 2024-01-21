@@ -31,3 +31,12 @@ print("-------------------------------------------")
 result =43**(7/23)
 print(result)
 print(abs((result - realPi[0]) / realPi[0]) * 100)
+print("-------------------------------------------")
+result = (525665 / 53261) ** 0.5
+print(result)
+print(abs((result - realPi[0]) / realPi[0]) * 100)
+print("-------------------------------------------")
+expression = 1.09999901 * 1.19999911 * 1.39999931 * 1.69999961
+print(result)
+print(abs((result - realPi[0]) / realPi[0]) * 100)
+print("-------------------------------------------")
